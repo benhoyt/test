@@ -4,10 +4,10 @@ import (
 	"fmt"
 )
 
-func foo(n int) {
+func bar(n int) {
 	fmt.Println("Goodbye, world", n)
 }
 
 func main() {
-	foo(42)
+	bar(42)
 }
