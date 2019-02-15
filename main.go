@@ -5,7 +5,7 @@ import (
 )
 
 func bar(n int) {
-	fmt.Println("Goodbye, world", n)
+	fmt.Println("GOODBYE, world", n)
 }
 
 func main() {
