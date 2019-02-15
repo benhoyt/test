@@ -6,7 +6,7 @@ import (
 
 // Barf some belarfen - tweaked
 func barf(n int) {
-	fmt.Println("GOODBYE, world", n)
+	fmt.Println("Goodbye, world", n)
 }
 
 func main() {
