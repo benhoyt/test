@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Barf some belarfen
 func barf(n int) {
 	fmt.Println("GOODBYE, world", n)
 }
