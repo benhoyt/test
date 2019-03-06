@@ -4,11 +4,11 @@ import (
 	"fmt"
 )
 
-// Barf some belarfen - tweaked more and more
-func barf(n int) {
+// Output some foo pretty please
+func foo(n int) {
 	fmt.Println("Goodbye, world", n)
 }
 
 func main() {
-	barf(42)
+	foo(42)
 }
