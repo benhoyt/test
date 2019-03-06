@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// Output some foo
+// Output some foo pretty please
 func foo(n int) {
 	fmt.Println("Goodbye, world", n)
 }
