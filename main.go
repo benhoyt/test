@@ -10,5 +10,5 @@ func foo(n int) {
 }
 
 func main() {
-	foo(42)
+	foo(24)
 }
