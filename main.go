@@ -5,10 +5,10 @@ import (
 )
 
 // Barf some belarfen - tweaked more and more
-func barf(n int) {
+func foox(n int) {
 	fmt.Println("Goodbye, world", n)
 }
 
 func main() {
-	barf(42)
+	foox(42)
 }
