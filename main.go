@@ -10,5 +10,6 @@ func foo(n int) {
 }
 
 func main() {
+	hello("world")
 	foo(24)
 }
