@@ -10,6 +10,6 @@ func foo(n int) {
 }
 
 func main() {
-	hi("world!")
+	hello("world")
 	foo(24)
 }
